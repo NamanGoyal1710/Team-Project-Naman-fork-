@@ -24,4 +24,5 @@ int main(){
         }
     }
         // cout<<"Element is not present";
+        // This is a bug in this code 
 }
