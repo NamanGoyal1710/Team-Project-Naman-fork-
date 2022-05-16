@@ -22,5 +22,6 @@ int main(){
             break;
         }
     }
-        // cout<<"Element is not present"; 
+        // cout<<"Element is not present";
+    return 0;
 }
