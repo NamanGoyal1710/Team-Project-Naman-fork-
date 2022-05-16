@@ -11,7 +11,6 @@ int main(){
         cout<<"Please enter the "<< i << " element in the array: ";
         cin>>arr[i];
     }
-    cout<<endl;
 
     int search;
     cout<<"Please enter the number you want to search: ";
