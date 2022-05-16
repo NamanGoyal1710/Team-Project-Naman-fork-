@@ -5,7 +5,6 @@ int main(){
     cout<<"Please enter the size of the array you want: ";
 
     cin>>size;
-    cout<<endl;
 
     int arr[size];
     for (int i=0; i<size; i++){
@@ -23,6 +22,5 @@ int main(){
             break;
         }
     }
-        // cout<<"Element is not present";
-        // This is a bug in this code 
+        // cout<<"Element is not present"; 
 }
