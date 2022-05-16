@@ -5,7 +5,6 @@ int main(){
     cout<<"Please enter the size of the array you want: ";
 
     cin>>size;
-    cout<<endl;
 
     int arr[size];
     for (int i=0; i<size; i++){
